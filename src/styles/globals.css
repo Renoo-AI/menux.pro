@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --mx-bg: #FCFBF9;
+    --mx-surface: #FFFFFF;
+    --mx-espresso: #3A322D;
+    --mx-accent: #C9A07E;
+    --mx-soft: #EFE4D8;
+    --mx-muted: #8A7B70;
+    --mx-border: #E8DDD3;
+    --mx-success: #2F855A;
+    --mx-warning: #D97706;
+    --mx-danger: #B91C1C;
+    --mx-info: #2563EB;
+  }
+
+  body {
+    @apply bg-mx-bg text-mx-espresso font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

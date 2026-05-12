@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect x="0" y="0" width="200" height="60" fill="transparent" />
+  <rect x="10" y="10" width="40" height="40" rx="8" fill="#3A322D" />
+  <circle cx="30" cy="30" r="8" fill="#C9A07E" />
+  <text x="65" y="38" font-family="'Playfair Display', serif" font-weight="bold" font-size="28" fill="#3A322D">MenuxPro</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://menuxtn.web.app/sitemap.xml
